@@ -1,0 +1,13 @@
+* installing *source* package 'dbplyr' ...
+** package 'dbplyr' successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Error in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]) : 
+  载入了名字空间'dplyr' 1.0.7，但需要的是>= 1.1.0
+Calls: <Anonymous> ... namespaceImportFrom -> asNamespace -> loadNamespace
+停止执行
+ERROR: lazy loading failed for package 'dbplyr'
+* removing 'D:/R-4.1.2/library/dbplyr'
+* restoring previous 'D:/R-4.1.2/library/dbplyr'

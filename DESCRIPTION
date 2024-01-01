@@ -1,0 +1,14 @@
+Package: GBDRhelp
+Title: Installation of easyGBDR package
+Version: 0.1.0
+Author: Xiaoming_room@hotmail.com
+Maintainer: Xiaoming <Xiaoming_room@hotmail.com>
+Description: Installation of easyGBDR package
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ggsci,
+    remotes

@@ -1,0 +1,85 @@
+* installing *source* package 'httr' ...
+** package 'httr' successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+  converting help for package 'httr'
+    finding HTML links ... done
+    BROWSE                                  html  
+    DELETE                                  html  
+    GET                                     html  
+    HEAD                                    html  
+    PATCH                                   html  
+    POST                                    html  
+    PUT                                     html  
+    RETRY                                   html  
+    Token-class                             html  
+    VERB                                    html  
+    add_headers                             html  
+    authenticate                            html  
+    cache_info                              html  
+    config                                  html  
+    content                                 html  
+    content_type                            html  
+    cookies                                 html  
+    get_callback                            html  
+    guess_media                             html  
+    handle                                  html  
+    handle_pool                             html  
+    has_content                             html  
+    headers                                 html  
+    hmac_sha1                               html  
+    http_condition                          html  
+    http_error                              html  
+    http_status                             html  
+    http_type                               html  
+    httr-package                            html  
+    httr_dr                                 html  
+    httr_options                            html  
+    init_oauth1.0                           html  
+    init_oauth2.0                           html  
+    insensitive                             html  
+    jwt_signature                           html  
+    modify_url                              html  
+    oauth1.0_token                          html  
+    oauth2.0_token                          html  
+    oauth_app                               html  
+    oauth_callback                          html  
+    oauth_endpoint                          html  
+    oauth_endpoints                         html  
+    oauth_exchanger                         html  
+    oauth_listener                          html  
+    oauth_service_token                     html  
+    oauth_signature                         html  
+    parse_http_date                         html  
+    parse_media                             html  
+    parse_url                               html  
+    progress                                html  
+    response                                html  
+    revoke_all                              html  
+    set_config                              html  
+    set_cookies                             html  
+    sha1_hash                               html  
+    sign_oauth                              html  
+    status_code                             html  
+    stop_for_status                         html  
+    timeout                                 html  
+    upload_file                             html  
+    use_proxy                               html  
+    user_agent                              html  
+    verbose                                 html  
+    with_config                             html  
+    write_disk                              html  
+    write_function                          html  
+    write_stream                            html  
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (httr)
+Making 'packages.html' ... done
